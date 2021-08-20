@@ -1,3 +1,5 @@
-# HighCharts with React app
+# StoryBook with HighCharts in React app
 
-React, highcharts, and highcharts-react-official
+Storybook, React, Typescript, highcharts, and highcharts-react-official
+
+Reference: https://storybook.js.org/docs/react/get-started/whats-a-story
